@@ -21,7 +21,7 @@
 - Full Stack MERN — Apna College (Sigma Web Dev)
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin-url)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin-url](https://www.linkedin.com/in/sumit-thapa-code/))
 
 ## 📊 GitHub Stats
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Sumit's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark](https://github.com/SumitThapa04))
